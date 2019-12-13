@@ -57,3 +57,4 @@ Debug/
 .settings/
 targetConfigs/TMS320F28069.ccxml
 targetConfigs/
+.launches/
