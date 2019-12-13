@@ -50,11 +50,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-.ccsproject
-.cproject
-.project
-Debug/
-.settings/
-targetConfigs/TMS320F28069.ccxml
-targetConfigs/
-.launches/
